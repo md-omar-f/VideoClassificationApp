@@ -1,6 +1,6 @@
-# VideoClassificationApp
-The ultimate goal of this repository is to make a web app to deploy a video classification model, based on CNN and LSTM, using Streamlit.
-To see how it works, you can check the following link : https://youtu.be/j1tdHsOmCng
+# HumanActionClassificationApp
+Using streamlit, a simution interface to run CNN and LSTM based ML model is implemented here.
+Credit goes to owner of the git profile: https://github.com/AHMEDBEL529
 
 Note : 
-ffmpeg should be installed and added to the path variable so the python file app.py can be be executed successfully.
+To run app.py you need to be ffmpeg installed and path variable added to your local machine
